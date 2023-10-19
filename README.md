@@ -7,3 +7,6 @@ helpful link for work with yolov8:
 
 helpful link for work with cvat and yolov8:
 - https://www.youtube.com/watch?v=aVKGjzAUHz0
+
+helpful link for list of points:
+- https://stackoverflow.com/questions/5904969/how-to-print-a-dictionarys-key
